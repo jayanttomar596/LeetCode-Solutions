@@ -1,43 +1,15 @@
 class Solution {
 public:
     vector<int> limitOccurrences(vector<int>& nums, int k) {
-        int ptr = 0 ; 
-        int n = nums.size() ;
-        int temp = 0 ;
-        int cnt = 0 ;
+        int i = 0 ;
 
-        for (int i = 0 ; i < n ; i++)
+        for (auto &n : nums)
         {
-            if (i == 0 || nums[i] == nums[i-1])
-            {
-                temp++ ;
-                if (temp <= k)
-                {
-                    nums[ptr++] = nums[i] ;
-                }
-                else
-                {
-                    cnt++ ;
-                }
-            }
-            else
-            {
-                temp = 1 ;
-                if (temp <= k)
-                {
-                    nums[ptr++] = nums[i] ;
-                }
-                else
-                {
-                    cnt++ ;
-                }
-            }
+            if (i < k || n != nums[i-k])
+                nums[i++] = n ;
         }
 
-        for (int i = 0 ; i < cnt ; i++)
-        {
-            nums.pop_back() ;
-        }
+        while(nums.size() > i) nums.pop_back() ;
 
         return nums ;
     }
