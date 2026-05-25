@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 ## String Matching
 |  |
 | ------- |
@@ -52,4 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
