@@ -1,25 +1,44 @@
 class Solution {
 public:
     vector<int> limitOccurrences(vector<int>& nums, int k) {
+        int ptr = 0 ; 
         int n = nums.size() ;
-        unordered_map<int, int> mp ;
-        for (int &x : nums)
+        int temp = 0 ;
+        int cnt = 0 ;
+
+        for (int i = 0 ; i < n ; i++)
+        {
+            if (i == 0 || nums[i] == nums[i-1])
             {
-                mp[x]++ ;
+                temp++ ;
+                if (temp <= k)
+                {
+                    nums[ptr++] = nums[i] ;
+                }
+                else
+                {
+                    cnt++ ;
+                }
             }
-
-        vector<int> num ;
-        for (auto x : mp)
+            else
             {
-                int time = min(k , x.second) ;
-                for (int i = 0 ; i < time ; i++)
-                    {
-                        num.push_back(x.first) ;
-                    }
+                temp = 1 ;
+                if (temp <= k)
+                {
+                    nums[ptr++] = nums[i] ;
+                }
+                else
+                {
+                    cnt++ ;
+                }
             }
+        }
 
-        sort(num.begin() , num.end()) ;
+        for (int i = 0 ; i < cnt ; i++)
+        {
+            nums.pop_back() ;
+        }
 
-        return num ;
+        return nums ;
     }
 };
