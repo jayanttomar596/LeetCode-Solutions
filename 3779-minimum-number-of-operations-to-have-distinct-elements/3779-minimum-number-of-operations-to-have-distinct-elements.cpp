@@ -1,43 +1,30 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        unordered_map<int , int> freq ;
+        unordered_map<int , int> mp ;
 
         for (int x : nums)
         {
-            freq[x]++ ;
+            mp[x]++ ;
         }
 
-        int dup = 0 ;
-
-        for (auto &p : freq)
+        int idx = -1 ;
+        for (int i = 0 ; i < nums.size() ; i++)
         {
-            if (p.second > 1)
+            if (mp.count(nums[i]) && mp[nums[i]] >= 2)
             {
-                dup++ ;
+                mp[nums[i]]-- ;
+                if (mp[nums[i]] == 0)
+                {
+                    mp.erase(nums[i]) ;
+                }
+                idx = i ;
             }
         }
 
-        if (dup == 0) return 0 ;
+        if (idx == -1) return 0 ;
 
-        int op = 0 ;
-        int n = nums.size() ;
-
-        for (int i = 0 ; i < n ; i += 3)
-        {
-            for (int j = i ; j < min(i+3 , n) ; j++)
-            {
-                int val = nums[j] ;
-
-                if (freq[val] > 1 && freq[val] - 1 == 1)
-                    dup-- ;
-                freq[val]-- ;
-            }
-
-            op++ ;
-            if (dup == 0) return op ;
-        }
-
-        return op ;
+        int cnt = idx + 1 ;
+        return (cnt+2)/3 ;
     }
 };
