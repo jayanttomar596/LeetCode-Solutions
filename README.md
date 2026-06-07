@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3093-longest-common-suffix-queries](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
