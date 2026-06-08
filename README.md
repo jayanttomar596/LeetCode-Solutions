@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2126-destroying-asteroids](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Trie
@@ -174,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
