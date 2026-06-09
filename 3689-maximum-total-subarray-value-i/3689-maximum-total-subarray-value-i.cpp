@@ -4,6 +4,6 @@ public:
         int maxi = *max_element(nums.begin() , nums.end()) ;
         int mini = *min_element(nums.begin() , nums.end()) ;
 
-        return (long long)(k*(long long)(maxi-mini)) ;
+        return (k*(long long)(maxi-mini)) ;
     }
 };
