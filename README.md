@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Sorting
 |  |
