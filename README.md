@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0621-task-scheduler](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0621-task-scheduler](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3093-longest-common-suffix-queries](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Depth-First Search
 |  |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
