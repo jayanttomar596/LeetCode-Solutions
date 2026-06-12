@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
