@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1861-rotating-the-box](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
