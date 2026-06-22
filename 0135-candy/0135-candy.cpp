@@ -5,18 +5,16 @@ public:
 
         vector<int> candies(n,1) ;
 
-        bool updated = true ;
+        // bool updated = true ;
 
-        while(updated)
-        {
-            updated = false ;
+
 
             for (int i = 1 ; i < n ; i++)
             {
                 if (ratings[i] > ratings[i-1] && candies[i] <= candies[i-1])
                 {
                     candies[i] = candies[i-1] + 1 ;
-                    updated = true ;
+                    // updated = true ;
                 }
             }
 
@@ -25,10 +23,10 @@ public:
                 if (ratings[i] > ratings[i+1] && candies[i] <= candies[i+1])
                 {
                     candies[i] = candies[i+1] + 1 ;
-                    updated = true ;
+                    // updated = true ;
                 } 
             }
-        }
+    
 
         return accumulate(candies.begin() , candies.end() , 0) ;
     }
