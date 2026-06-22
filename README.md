@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1189-maximum-number-of-balloons](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Segment Tree
 |  |
 | ------- |
