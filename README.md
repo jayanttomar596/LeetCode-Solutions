@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
