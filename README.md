@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1861-rotating-the-box](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
