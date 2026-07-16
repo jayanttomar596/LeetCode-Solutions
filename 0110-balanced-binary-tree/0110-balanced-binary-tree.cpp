@@ -10,25 +10,17 @@
  * };
  */
 class Solution {
-    int height(TreeNode* root)
+    pair<bool,int> solve(TreeNode* root)
     {
-        if (!root) return 0 ;
-        int l = height(root->left) ;
-        int r = height(root->right) ;
-        return max(l,r)+1 ;
-    }
+        if (!root) return {true,0};
+        pair<bool,int> l = solve(root->left) ;
+        pair<bool,int> r = solve(root->right) ;
+        bool op = abs(l.second - r.second) <= 1 ;
 
-    bool solve(TreeNode* root)
-    {
-        if (!root) return true ;
-        bool l = solve(root->left) ;
-        bool r = solve(root->right) ;
-        bool op = abs(height(root->left)-height(root->right)) <= 1 ;
-
-        return (l&&r&&op) ;
+        return {(l.first && r.first && op) , max(l.second , r.second) +1} ;
     }
 public:
     bool isBalanced(TreeNode* root) {
-        return solve(root) ;
+        return solve(root).first ;
     }
 };
