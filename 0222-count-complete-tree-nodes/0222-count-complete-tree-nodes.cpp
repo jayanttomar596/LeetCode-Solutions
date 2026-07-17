@@ -10,28 +10,35 @@
  * };
  */
 class Solution {
-    void inorder(TreeNode* root, int &count) {
-        // If current node is NULL, stop processing
-        if (root == NULL) {
-            return;
+    int findl(TreeNode* root)
+    {
+        int h = 0 ;
+        while(root)
+        {
+            h++ ;
+            root=root->left ;
         }
-        // Increment count for current node
-        count++;
-        // Recursively count nodes in the left subtree
-        inorder(root->left, count);
-        // Recursively count nodes in the right subtree
-        inorder(root->right, count);
+        return h ;
+    }
+    int findr(TreeNode* root)
+    {
+        int h = 0 ;
+        while(root)
+        {
+            h++ ;
+            root=root->right ;
+        }
+        return h ;
     }
 public:
     int countNodes(TreeNode* root) {
-        if (root == NULL) {
-            return 0;
-        }
-        // Variable to store node count
-        int count = 0;
-        // Perform inorder traversal to count nodes
-        inorder(root, count);
-        // Return total number of nodes
-        return count;
+        if (!root) return NULL ;
+
+        int l = findl(root) ;
+        int r = findr(root) ;
+
+        if (l == r) return (1 << l) - 1 ;
+
+        return 1 + countNodes(root->left) + countNodes(root->right) ;
     }
 };
