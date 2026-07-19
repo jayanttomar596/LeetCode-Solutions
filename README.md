@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -295,12 +297,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
