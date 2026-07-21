@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -464,5 +468,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
