@@ -1,62 +1,67 @@
-class DisjointSet
+class DSU
 {
     vector<int> rank , parent , size ;
+    public :
 
-public :
-    DisjointSet(int n)
+    DSU(int n)
     {
-        rank.resize(n+1 , 0) ;
+        rank.resize(n+1,0) ;
         parent.resize(n+1) ;
         size.resize(n+1) ;
 
-        for (int i = 0 ; i < n ; i++)
+        for (int i = 0 ; i <= n ; i++)
         {
             parent[i] = i ;
             size[i] = 1 ;
         }
     }
 
-    int findPar(int node)
+    int find(int node)
     {
-        if (node == parent[node]) return node ;
-
-        parent[node] = findPar(parent[node]) ;
-        return parent[node] ;
+        if (node == parent[node])
+            return node ;
+        return parent[node] = find(parent[node]) ;
     }
 
-    void unionByRank(int u , int v)
+    void unionbyrank(int u , int v)
     {
-        int pu = findPar(u) ;
-        int pv = findPar(v) ;
+        int up = find(u) ;
+        int vp = find(v) ;
 
-        if (pu == pv) return ;
+        if (up == vp) return ;
 
-        if (rank[pu] < rank[pv]) parent[pu] = pv ;
-        else if (rank[pv] < rank[pu]) parent[pv] = pu ;
-        else 
+        if (rank[up] < rank[vp])
         {
-            parent[pv] = pu ;
-            rank[pu]++ ;
+            parent[up] = vp ;
+        }
+        else if (rank[vp] < rank[up])
+        {
+            parent[vp] = up ;
+        } 
+        else
+        {
+            parent[vp] = up ;
+            rank[up]++ ;
         }
     }
 
 
-    void unionBySize(int u , int v)
+    void unionbysize(int u , int v)
     {
-        int pu = findPar(u) ;
-        int pv = findPar(v) ;
+        int up = find(u) ;
+        int vp = find(v) ;
 
-        if (pu == pv) return ;
+        if (up == vp) return ;
 
-        if (size[pu] < size[pv])
+        if (size[up] < size[vp])
         {
-            parent[pu] = pv ;
-            size[pv] += size[pu] ;
+            parent[up] = vp ;
+            size[vp] += size[up] ;
         }
         else
         {
-            parent[pv] = pu ;
-            size[pu] += size[pv] ;
+            parent[vp] = up ;
+            size[up] += size[vp] ;
         }
     }
 };
@@ -67,9 +72,9 @@ public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
         int n = accounts.size() ;
 
-        DisjointSet ds(n) ;
+        DSU ds(n) ;
 
-        unordered_map<string , int> mapMailNode ;
+        unordered_map<string , int> mp ;
 
         for (int i = 0 ; i < n ; i++)
         {
@@ -77,44 +82,46 @@ public:
             {
                 string mail = accounts[i][j] ;
 
-                if (mapMailNode.find(mail) == mapMailNode.end())
+                if (mp.find(mail) == mp.end())
                 {
-                    mapMailNode[mail] = i ;
+                    mp[mail] = i ;
                 }
                 else
                 {
-                    ds.unionBySize(i , mapMailNode[mail]) ;
+                    ds.unionbysize(i , mp[mail]) ;
                 }
             }
         }
 
 
-        vector<string> mergedMail[n];
-        for (auto it : mapMailNode) 
+        vector<string> merge[n] ;
+        for (auto it : mp)
         {
-            string mail = it.first;
-            int node = ds.findPar(it.second);
-            mergedMail[node].push_back(mail);
+            string mail = it.first ;
+            int node = ds.find(it.second) ;
+            merge[node].push_back(mail) ;
         }
 
-        // Step 3: Prepare final merged result
-        vector<vector<string>> ans;
-        for (int i = 0; i < n; i++) {
-            if (mergedMail[i].empty()) continue;
 
-            sort(mergedMail[i].begin(), mergedMail[i].end());
+        vector<vector<string>> ans ;
+        for (int i = 0 ; i < n ; i++)
+        {
+            if (merge[i].empty()) continue ;
 
-            vector<string> temp;
-            temp.push_back(accounts[i][0]);
+            sort(merge[i].begin() , merge[i].end()) ;
 
-            for (auto &mail : mergedMail[i]) {
-                temp.push_back(mail);
+            vector<string> temp ;
+            temp.push_back(accounts[i][0]) ;
+
+            for (auto &mail : merge[i])
+            {
+                temp.push_back(mail) ;
             }
-            ans.push_back(temp);
+
+            ans.push_back(temp) ;
         }
 
-        // Sort final answer
-        sort(ans.begin(), ans.end());
-        return ans;
+        sort(ans.begin() , ans.end()) ;
+        return ans ;
     }
 };
