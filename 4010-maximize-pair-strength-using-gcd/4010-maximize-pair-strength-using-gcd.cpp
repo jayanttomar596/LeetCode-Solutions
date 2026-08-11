@@ -1,15 +1,4 @@
 class Solution {
-    int gcd(int a , int b)
-    {
-        while(b != 0)
-            {
-                int r = a%b ;
-                a = b ;
-                b = r ;
-            }
-
-        return a ;
-    }
 public:
     long long maxPairStrength(vector<int>& nums) {
         long long ans = 0 ;
@@ -18,9 +7,10 @@ public:
         {
             for (int j = i+1 ; j < n ; j++)
             {
-                long long g = gcd(nums[i] , nums[j]) ;
-                long long temp = (1LL * nums[i] * nums[j]) / (g*g) ;
-                ans = max(ans , temp) ;
+                int g = gcd(nums[i] , nums[j]) ;
+                long long a = nums[i]/g ;
+                long long b = nums[j]/g ;
+                ans = max(ans , a*b) ;
             }
         }
 
