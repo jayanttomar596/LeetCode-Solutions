@@ -13,20 +13,19 @@ public:
         depth[0] = 1 ;
 
         int h = 1 ;
-        stack<int> st ;
-        st.push(0) ;
+        queue<int> q ;
+        q.push(0) ;
 
-
-        while(!st.empty())
+        while(!q.empty())
         {
-            int node = st.top() ;
-            st.pop() ;
+            int node = q.front() ;
+            q.pop() ;
 
             for (int child : children[node])
             {
                 depth[child] = depth[node] + 1 ;
                 h = max(h , depth[child]) ;
-                st.push(child) ;
+                q.push(child) ;
             }
         }
 
