@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
 | ------- |
