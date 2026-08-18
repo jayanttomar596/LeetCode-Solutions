@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
@@ -500,4 +503,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
