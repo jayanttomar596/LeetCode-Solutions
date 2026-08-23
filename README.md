@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1696-jump-game-vi](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1340-jump-game-v) |
+| [1696-jump-game-vi](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1696-jump-game-vi](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -531,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
