@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3660-jump-game-ix](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1696-jump-game-vi](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
+| [3660-jump-game-ix](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
