@@ -12,33 +12,40 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         if (!head) return {-1,-1} ;
-        vector<int> cri ;
         int prev = head->val ;
         head = head -> next ;
         if (!head) return {-1,-1} ;
         int i = 1 ;
+        int first = -1 ;
+        int prevcri = -1 ;
+        int minDist = INT_MAX ;
         
         while(head->next != NULL)
         {
-            if (head -> val > prev && head -> val > head -> next -> val) cri.push_back(i) ;
-
-            if (head -> val < prev && head -> val < head -> next -> val) cri.push_back(i) ;
+            if ((head -> val > prev && head -> val > head -> next -> val) || (head -> val < prev && head -> val < head -> next -> val))
+            {
+                if (first == -1)
+                {
+                    first = i ;
+                    prevcri = i ;
+                }
+                else 
+                {
+                    minDist = min(minDist , i - prevcri) ;
+                    prevcri = i ;
+                }
+            }
 
             i++ ;
             prev = head -> val ;
             head = head -> next ;
         }
 
-        // we got the vector now we want max and min gap
+        if (first == -1 || prevcri == first) return {-1, -1} ;
 
-        if (cri.size() < 2) return {-1,-1} ;
-        int maxi = cri.back() - cri.front() ;
+        int maxi = prevcri - first ;
 
-        int mini = INT_MAX ;
-        for (int i = 1 ; i < cri.size() ; i++)
-        {
-            mini = min(mini , cri[i] - cri[i-1]) ;
-        }
-        return {mini , maxi} ;
+        
+        return {minDist , maxi} ;
     }
 };
