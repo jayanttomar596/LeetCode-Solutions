@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
