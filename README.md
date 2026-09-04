@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Ordered Set
 |  |
@@ -576,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
