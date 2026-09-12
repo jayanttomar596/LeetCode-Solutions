@@ -1,34 +1,21 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        vector<int> cnt(10,0) ;
-        for (int &i : digits) cnt[i]++ ;
-        int ans = 0 ;
+        int f[10] = {0} ;
+        int res = 0 ;
 
-        for (int i = 100 ; i <= 998 ; i += 2)
+        for (auto& d : digits) f[d]++ ;
+
+        for (int i = 1 ; i < 10 ; i++)
         {
-            vector<int> need(10,0) ;
-
-            int a = i/100 ;
-            int b = (i/10)%10 ;
-            int c = i%10 ;
-            need[a]++ ;
-            need[b]++ ;
-            need[c]++ ;
-
-            bool ok = true ;
-            for (int i = 0 ; i < 10 ; i++)
+            for (int j = 0 ; j < 10 ; j++)
             {
-                if (need[i] > cnt[i])
+                for (int k = 0 ; k < 9 ; k+=2)
                 {
-                    ok = false ;
-                    break ;
+                    res += f[i] > 0 && f[j] > (i == j) && f[k] > (i == k) + (j == k) ;
                 }
             }
-
-            if (ok)ans++ ;
         }
-
-        return ans ;
+        return res ;
     }
 };
