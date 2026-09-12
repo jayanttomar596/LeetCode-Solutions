@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Union-Find
 |  |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Divide and Conquer
 |  |
