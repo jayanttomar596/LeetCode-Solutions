@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4054-count-shadow-pairs-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4054-count-shadow-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
