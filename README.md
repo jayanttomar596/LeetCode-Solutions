@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
@@ -611,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
