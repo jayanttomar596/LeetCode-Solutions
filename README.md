@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4054-count-shadow-pairs-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Greedy
 |  |
 | ------- |
