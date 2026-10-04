@@ -1,35 +1,31 @@
 class Solution {
-    bool isValid(string& s)
-    {
-        int minOpen = 0 , maxOpen = 0 ;
+public:
+    bool checkValidString(string s) {
+        int mini = 0 , maxi = 0 ;
 
-        for (char c : s)
+        for (char &ch : s)
         {
-            if (c == '(')
+            if (ch == '(')
             {
-                minOpen++ ;
-                maxOpen++ ;
+                mini++ ;
+                maxi++ ;
             }
-            else if (c == ')')
+            else if (ch == ')')
             {
-                minOpen-- ;
-                maxOpen-- ;
+                mini-- ;
+                maxi-- ;
             }
             else
             {
-                minOpen-- ;
-                maxOpen++ ;
+                mini-- ;
+                maxi++ ;
             }
 
-            if (maxOpen < 0) return false ;
+            if (maxi < 0) return false ;
 
-            minOpen = max(minOpen , 0) ;
+            mini = max(0 ,mini) ;
         }
 
-        return minOpen == 0 ;
-    }
-public:
-    bool checkValidString(string s) {
-        return isValid(s) ;
+        return mini == 0 ;
     }
 };
