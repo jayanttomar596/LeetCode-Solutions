@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Trie
 |  |
 | ------- |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Segment Tree
 |  |
@@ -616,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Treap
 |  |
 | ------- |
