@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
 | ------- |
