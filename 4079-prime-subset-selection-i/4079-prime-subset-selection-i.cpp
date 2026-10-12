@@ -11,7 +11,7 @@ public:
         {
             if (isprime[i])
             {
-                for (int j = i*i ; j <= n ; j+= i)
+                for (int j = i*i ; j <= n ; j += i)
                 {
                     isprime[j] = false ;
                 }
@@ -20,22 +20,15 @@ public:
 
         int sum = 0 ;
 
-        for (int i = 2 ; i <= n ; i++)
+        for (int p = 2 ; p <= n ; p++)
         {
-            if (isprime[i])
+            if (isprime[p])
             {
-                if (sum + i <= s)
-                {
-                    sum += i ;
-                    ans.push_back(i) ;
-                }
-                else
-                {
-                    break ;
-                }
+                if (sum + p > s) break ;
+                sum += p ;
+                ans.push_back(p) ;
             }
         }
-
         return ans ;
     }
 };
