@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Sorting
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
