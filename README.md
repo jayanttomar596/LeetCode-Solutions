@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Sorting
