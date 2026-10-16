@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3093-longest-common-suffix-queries](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
 |  |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jayanttomar596/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
